@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "karma": "^4.3.0",
+    "karma-fixture": "^0.2.6",
+    "karma-html2js-preprocessor": "^1.1.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-requirejs": "^1.1.0",
+    "requirejs": "^2.3.6"
+  },
+  "dependencies": {}
+}

@@ -4,6 +4,7 @@
 declare const regacyLibrary: regacyLibrary;
 declare const globalAge: number;
 declare const globalFunction: Function;
+
 import { Controller } from "./controller";
 import "../CommonLibrary/Extensions/string.extensions";
 

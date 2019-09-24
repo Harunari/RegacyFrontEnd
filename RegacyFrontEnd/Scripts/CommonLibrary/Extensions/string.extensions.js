@@ -13,4 +13,3 @@
         return "'" + this.valueOf() + "'";
     };
 });
-//# sourceMappingURL=string.extensions.js.map
